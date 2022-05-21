@@ -5,7 +5,6 @@ This class used used to create table, display it with your data set.
 
 First of all, call constructor to create a new object CreateTable.
 For example: you want to create a table with four columns: 
-    ```
     
     ArrayList<String> attributes = new ArrayList<>();
     attributes.add("ID");
@@ -19,4 +18,3 @@ For example: you want to create a table with four columns:
     isNumbers.add(false);
     CrateTable ct = new CreateTable(attributes, isNumbers);
     
-    ```
