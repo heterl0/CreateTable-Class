@@ -9,9 +9,7 @@ For example: you want to create a table with four columns:
     ArrayList<String> attributes = new ArrayList<>();
     
     attributes.add("ID");
-    
     attributes.add("Name");
-    
     attributes.add("Total Area");
     
     attributes.add("Terrain");
