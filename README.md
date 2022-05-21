@@ -1,9 +1,11 @@
 # CreateTable-Class
-NetBeans 8.2.
+###NetBeans 8.2.
 
 This class is used to create table, display it with your data set.
 
-First of all, call constructor to create a new object CreateTable.
+First of all, download file CreateTable.java and copy it to your project, refactor package!
+
+First, call constructor to create a new object CreateTable.
 
 For example: you want to create a table with four columns: 
     
